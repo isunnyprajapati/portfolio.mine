@@ -1,0 +1,19 @@
+{
+    "name": "Sunny",
+    "short_name": "Sunny",
+    "description": "Sunny | @isunnyprajapati",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#191918",
+    "theme_color": "#20201f",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/assets/image.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
